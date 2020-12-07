@@ -27,11 +27,11 @@ class WelcomeBody extends StatelessWidget {
                 'WELCOME TO',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    fontSize: 22,
+                    fontSize: 23,
                     color: kBackgroundColor),
               ),
             )),
-            SizedBox(height: size.height * 0.06),
+            SizedBox(height: size.height * 0.03),
             Image.asset(
               'images/wisdomshowmain.png',
               height: size.height * 0.20,

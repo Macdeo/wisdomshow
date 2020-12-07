@@ -59,12 +59,12 @@ class _IntroScreenState extends State<IntroScreen> {
     );
     slides.add(
       new Slide(
-        title: "",
+        // title: "",
         description:
-            "Take advantage of this great opportunity to win a whopping N1 million cash prize!",
-        pathImage: "images/letsgos.png",
+            "Take advantage of this great opportunity to win a whopping ₦1,000,000 cash prize!",
+        pathImage: "images/wincash.png",
         heightImage: 300,
-        backgroundColor: Color(0xff0648B3),
+        backgroundColor: Colors.black54,
       ),
     );
     slides.add(
