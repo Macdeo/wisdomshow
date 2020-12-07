@@ -13,7 +13,7 @@ class _DemoState extends State<Demo> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Demo'),
+        title: Text('Wisdom Show'),
         centerTitle: true,
         backgroundColor: Colors.blue[900],
         //actions: <Widget>[],

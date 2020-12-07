@@ -59,6 +59,16 @@ class _IntroScreenState extends State<IntroScreen> {
     );
     slides.add(
       new Slide(
+        title: "",
+        description:
+            "Take advantage of this great opportunity to win a whopping N1 million cash prize!",
+        pathImage: "images/letsgos.png",
+        heightImage: 300,
+        backgroundColor: Color(0xff0648B3),
+      ),
+    );
+    slides.add(
+      new Slide(
         title: "LET'S GO",
         // description:
         //     "1. Play online as often as you want to improve your Bible knowledge \n\n  2. Answer all questions and be on the Wisdom Show \n\n 3. Great rewards await the wise. You have an awesome opportunity to win cash prizes",

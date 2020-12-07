@@ -13,7 +13,7 @@ class _BuyPinState extends State<BuyPin> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Buy Pin'),
+        title: Text('Wisdom Show'),
         centerTitle: true,
         backgroundColor: Colors.blue[900],
         //actions: <Widget>[],
